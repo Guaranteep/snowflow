@@ -10,11 +10,11 @@
     "type": "git",
     "url": "https://github.com/Guaranteep/snowflow.git"
   },
-  "homepage": "https://github.com/Guaranteep/snowflow#readme"
+  "homepage": "https://github.com/Guaranteep/snowflow#readme",
   "bugs": {
     "url": "https://github.com/Guaranteep/snowflow/issues"
   },
-  "author": "Guaranteep"
+  "author": "Guaranteep",
   "keywords": [
     "workflow",
     "cli",
