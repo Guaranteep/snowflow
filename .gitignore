@@ -1,0 +1,19 @@
+# 依赖
+node_modules/
+
+# SnowFlow 运行时数据（由 snowflow init 在项目中生成）
+.snowflow/
+
+# Snow CLI 内部数据
+.snow/
+
+# 日志
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

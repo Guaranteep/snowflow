@@ -1,0 +1,28 @@
+{
+  "name": "snowflow",
+  "version": "2.0.0",
+  "description": "SnowFlow — Snow CLI 全自动工作流调度引擎",
+  "main": "snowflow.js",
+  "bin": {
+    "snowflow": "./snowflow.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Guaranteep/snowflow.git"
+  },
+  "homepage": "https://github.com/Guaranteep/snowflow#readme"
+  "bugs": {
+    "url": "https://github.com/Guaranteep/snowflow/issues"
+  },
+  "author": "Guaranteep"
+  "keywords": [
+    "workflow",
+    "cli",
+    "automation",
+    "ai",
+    "agent",
+    "snow-cli",
+    "task-management"
+  ],
+  "license": "MIT"
+}
